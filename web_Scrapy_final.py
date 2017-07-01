@@ -99,23 +99,3 @@ json_file = open('product.json','w')
 json.dump(prod_info,json_file)
             
             
-print prod_dict        
-print count  
-    
-    
-    
-    
-    
-    
-    
-
-
-# In[15]:
-
-len(pic)
-
-
-# In[ ]:
-
-
-
